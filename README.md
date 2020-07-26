@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**jaeyholic/jaeyholic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Complete Farmer Buyer Dashboard
@@ -13,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... [Twitter] (https://twitter.com/jaeyholic), [Portfolio Website] (https://jeffson.netlify.app)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am Jovial
--->
+
