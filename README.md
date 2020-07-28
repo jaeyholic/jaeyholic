@@ -1,4 +1,13 @@
+![alt text](https://i.imgur.com/gGydeDF.jpg "Banner Image")
+
 ### Hi there 👋
+
+## My name is Felix Yeboah - Jefferson
+A self-taught Full-Stack Web & Mobile Developer and UI/UX Designer from Accra, Ghana. I am super passionate about design, development, traveling, and a fanatic of all things digital. I have been very fortunate to be able to do all as a career.
+
+### I consider myself as a learner, a life-long learner.
+
+
 
 Here are some ideas to get you started:
 
